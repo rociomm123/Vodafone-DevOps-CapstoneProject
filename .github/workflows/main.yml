@@ -42,3 +42,4 @@ jobs:
       helm install mavenbuild-dev ./webapp
       helm list -A
       kubectl get all
+      
